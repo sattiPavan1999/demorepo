@@ -1004,7 +1004,7 @@
     <!-- Testimonials Section -->
     <section class="container testimonials">
         <div class="section-title">
-            <h2>What Our Customers Say hahaha</h2>
+            <h2>What Our Customers Say hahaha hahaha</h2>
             <p>Trusted by thousands of happy customers worldwide</p>
         </div>
         
